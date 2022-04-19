@@ -25,7 +25,7 @@ function BookForm() {
 
    <div className='input-field col s6'>
    <input id='books_category' type='text' className='validate'/>
-   <label htmlFor='books_category'>Books Title</label>
+   <label htmlFor='books_category'>Books category</label>
    </div>
 
    <div className='input-field col s6'>
